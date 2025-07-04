@@ -10,10 +10,6 @@ In today's world, effective waste management is of paramount importance. The inc
 
 By simplifying the process of reporting waste issues, the Waste Management System aims to facilitate prompt action by municipal authorities, contributing to cleaner and healthier communities.
 
-### Acknowledgment:
-
-Special thanks and credits to [@janakbist](https://github.com/janakbist/), thank you for this sir.
-
 ### Requirements:
 
 To set up the project locally, you'll need:
@@ -51,15 +47,6 @@ To set up the project locally, you'll need:
    - Explore the codebase, make changes, and contribute to the project.
    - Submit pull requests with your enhancements and fixes. Your contributions are highly appreciated!
 
-## Thanks to all contributors ❤
-
-Thanks to all the contributors who have helped improve this project. 
-
- <a href = "https://github.com/imlakshay08/waste-management-system/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=imlakshay08/waste-management-system"/>
- </a>
- 
-[View Contributors](https://github.com/imlakshay08/waste-management-system/graphs/contributors)
 
 ### Additional Resources:
 
